@@ -69,7 +69,7 @@ export default async function AdminLayout({
         },
         {
           title: "Github",
-          url: "https://github.com/lizhenVegetableChicken/my-shipany-template",
+          url: "https://github.com/tkaptop/my-shipany-template",
           target: "_blank",
           icon: "RiGithubLine",
         },
